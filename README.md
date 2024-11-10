@@ -4,3 +4,4 @@ name:mounika
 project:version control
 college:anmk
 course:mca
+affliated:jntua
